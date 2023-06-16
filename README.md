@@ -1,2 +1,2 @@
-# plantcare-Cloud-Computing-API-
-Cloud Computing for PlantCare Project
+# plantcare-Cloud-Computing-API
+Cloud Computing Capstone Project
